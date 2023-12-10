@@ -24,5 +24,5 @@ If you encounter any issues with the data or visualizations, please open an issu
 
 
 ## Acknowledgments
-- The porject is made with the help of data from Youtuber [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
+- The project is made with the help of data from Youtuber [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
 - Also to work on this data from scratch please [watch this video of Alex The Analyst](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=7)
